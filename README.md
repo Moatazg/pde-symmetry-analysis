@@ -56,6 +56,7 @@ print("Group size:", len(group))
 
 
 ## Citation
-
 If you use this code, please cite:
-> Moataz M. Alghamdi, **Symbolic Detection of Permutation and Parity Symmetries of Evolution Equations**, KAUST MSc Thesis, 2017.
+
+**Alghamdi, M. M.**. *Symbolic Detection of Permutation and Parity Symmetries of Evolution Equations* (Master’s thesis, King Abdullah University of Science and Technology).  
+[KAUST Repository](https://repository.kaust.edu.sa/server/api/core/bitstreams/f03756bf-c620-4a29-ba1c-7d83b3193214/content)
